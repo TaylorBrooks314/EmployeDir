@@ -19,7 +19,6 @@ function EmployeeListItem(props) {
     navigate(`/employee/${id}`)
   }
 
-
   return (
     <div onClick={() => handleClick(props.person.id)} className="item" key={props.person.id}>
       <img src={props.person.headshot} alt="headshot" />

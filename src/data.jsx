@@ -18,6 +18,7 @@ export const data = [
       borderColor: "blue",
       id: 2
     },
+    
     {
       name: "Avery",
       title: "CEO",

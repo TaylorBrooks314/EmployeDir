@@ -7,5 +7,4 @@ function Header({ title }) {
     </div>
   );
 }
-
 export default Header;

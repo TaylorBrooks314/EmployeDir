@@ -9,7 +9,6 @@ export default function App() {
   let [employees, setEmployees] = useState(data);
 
 
-
   function addEmployee(emp) {
     setEmployees([...employees, emp]);
   }

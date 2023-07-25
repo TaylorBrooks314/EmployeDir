@@ -60,5 +60,4 @@ function EmployeePage({employees}) {
         </div>
     );
 }
-
 export default EmployeePage;

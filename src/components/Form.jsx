@@ -10,6 +10,7 @@ export default function Form({ addEmployee }) {
     email: "",    
   });
   
+
   let [error, setError] = useState({
     nameError: false,
     nameMessage:'name must be between 3 and 8 letters',

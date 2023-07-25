@@ -18,7 +18,6 @@ export default function DisplayForm({addEmployee}) {
             {isShown && <Form addEmployee={addEmployee} />}
         </div>
 
-        
     )
     
 }

@@ -14,5 +14,4 @@ function HomePage({ employees, addEmployee }) {
     </div>
   );
 }
-
 export default HomePage;
